@@ -74,8 +74,7 @@ sudo rmmod lkm_example
 
 如果您再次运行dmesg，则会在日志中看到字符串“Goodbye, World!”。同时，您也可以再次使用lsmod来确认它是否已被卸载。
 
-**如果你想了解更多，可点击[原文链接](https://zhuanlan.zhihu.com/p/31931538)
-**
+**如果你想了解更多，可点击[原文链接](https://zhuanlan.zhihu.com/p/31931538)**
 
 
 
